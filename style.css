@@ -45,4 +45,6 @@ body{
        display: flex;
        justify-content: center;
        max-width: 1980px;
+       height: 50%;
+
    }
