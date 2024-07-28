@@ -23,8 +23,8 @@ body{
         justify-content: center;
    }
    .cabecalho_imagem{
-        width: 10%;
-        height: 10%;
+        width: 20%;
+        height: 20%;
         display: flex;
         justify-content: flex-start;
         align-items: center;
