@@ -44,5 +44,7 @@ body{
    .banner.png{
        display: flex;
        justify-content: center;
+       width: 60%;
+       font: 40px;
 
    }
